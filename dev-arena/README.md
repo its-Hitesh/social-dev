@@ -1,6 +1,6 @@
 # social-dev
 
-<a href = "https://git-visual-helpinghand03.vercel.app/"> live deployed link social-dev</a> 
+<a href = "https://git-visual-helpinghand03.vercel.app/"> live deployed link</a> 
 
 ## Available Scripts
 
